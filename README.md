@@ -4,6 +4,8 @@
 
 This project was adapted from https://github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial10/Adversarial_Attacks.ipynb
 
+The project poster is uploaded as `Adversarial_patch_attack.ipynb`, and a brief report summarizing our findings is uploaded as `Adversarial_Patch_Attack.pdf`.
+
 ## Replicating this project
 
 **Option 1 (Reccomended):** Click the above "Open In Colab" badge (or upload notebook to Colab) and run in a **GPU** instance. Run All. 
@@ -11,6 +13,10 @@ This project was adapted from https://github.com/phlippe/uvadlc_notebooks/blob/m
 **Option 2:** Upload jupyer notebook to another GPU enabled jupyter environment and run all cells. 
 
 *This project can run on CPU but evaluation will be VERY slow*
+
+## Authors
+
+William Chown, Malcolm Smith Fraser, Wei Wu
 
 ## Results
 
